@@ -1,0 +1,18 @@
+
+
+body {
+    background: url("//s1.twnmm.com/images/en_ca/backgrounds/unified/clear_night.jpg") 50% 0px no-repeat rgb(38, 112, 175);
+  }
+
+#head {
+    color: aliceblue;
+  }
+#tempert{
+    background: #FFEC53;
+}
+#humid{
+    background: #FFEC53;
+}
+#wind{
+    background: #FFEC53;
+}
